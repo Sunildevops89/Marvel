@@ -1,1 +1,1 @@
-print("sony")
+print("Tony")
